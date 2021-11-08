@@ -1,4 +1,5 @@
-# Honey-Bunny
 
-" Cake Shop Website " |
-Responsive Web Design Build using Html,CSS and JavaScript
+| Name              |  About                             | Languages               |
+| :---------------: | :------:                           | :-------:               |
+| Honey-Bunny       | Responsive Web Design of Cake Shop | Html,CSS and JavaScript |
+
